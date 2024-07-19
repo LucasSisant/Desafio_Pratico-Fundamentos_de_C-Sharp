@@ -1,8 +1,8 @@
 <h1 align="center"> Desafio prático Fundamentos de CSharp</h1>
 
 <p align="center">
-Este projeto é a resolução do desafio do modulo de Fundamentos de C# da Formação em C#, promovido gratuitamente pela Rocketseat para ensino de tecnologias WEB. <br/>
-<a href="https://www.rocketseat.com.br/formacao/csharp" target="_blank">Conheça a Formação completa em C# clicando aqui.</a>
+Este projeto é a resolução do desafio do modulo de Fundamentos de C# da Formação em C#, promovido pela Rocketseat para ensino da principal stack de desenvolvimento da Microsoft. <br/>
+Conheça a Formação completa em C# <a href="https://www.rocketseat.com.br/formacao/csharp" target="_blank">clicando aqui.</a>
 </p>
 
 <p align="center">
