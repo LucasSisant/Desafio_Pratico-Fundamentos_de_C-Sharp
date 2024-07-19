@@ -1,0 +1,7 @@
+D:\Estudo TI\RocketSeat\Formação C#\FundamentosCSharp\FundamentosCSharp\bin\Debug\FundamentosCSharp.exe.config
+D:\Estudo TI\RocketSeat\Formação C#\FundamentosCSharp\FundamentosCSharp\bin\Debug\FundamentosCSharp.exe
+D:\Estudo TI\RocketSeat\Formação C#\FundamentosCSharp\FundamentosCSharp\bin\Debug\FundamentosCSharp.pdb
+D:\Estudo TI\RocketSeat\Formação C#\FundamentosCSharp\FundamentosCSharp\obj\Debug\FundamentosCSharp.csprojAssemblyReference.cache
+D:\Estudo TI\RocketSeat\Formação C#\FundamentosCSharp\FundamentosCSharp\obj\Debug\FundamentosCSharp.csproj.CoreCompileInputs.cache
+D:\Estudo TI\RocketSeat\Formação C#\FundamentosCSharp\FundamentosCSharp\obj\Debug\FundamentosCSharp.exe
+D:\Estudo TI\RocketSeat\Formação C#\FundamentosCSharp\FundamentosCSharp\obj\Debug\FundamentosCSharp.pdb
