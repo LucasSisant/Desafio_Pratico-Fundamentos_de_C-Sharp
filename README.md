@@ -6,8 +6,8 @@ Conheça a Formação completa em C# <a href="https://www.rocketseat.com.br/form
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
@@ -22,6 +22,10 @@ Conheça a Formação completa em C# <a href="https://www.rocketseat.com.br/form
   <img alt="projeto DevLinks" src=".github/preview.png" width="100%">
 </p>
 
+## 💻 Projeto
+
+Neste projeto está a resolução de 6 tarefas/desafios propostos para por prática os conceitos aprendidos.
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -30,14 +34,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - .NET
 - Git e Github
 
-## 💻 Projeto
-
-O projeto contém a resolução de 6 tarefas.
-
 
 ## 🔖 Layout
 
-Você pode visualizar as instruções do desafio através [DESSE LINK](https://efficient-sloth-d85.notion.site/Desafio-pr-tico-61b5a711351942bfb2f369351f85990d).
+Você pode visualizar as instruções do desafio através <a href="[https://www.rocketseat.com.br/formacao/csharp](https://efficient-sloth-d85.notion.site/Desafio-pr-tico-61b5a711351942bfb2f369351f85990d)" target="_blank">[DESSE LINK]</a>
 
 ## :memo: Licença
 
